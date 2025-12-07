@@ -1,0 +1,6 @@
+if SHIELD_ERGO18
+
+config ZMK_KEYBOARD_NAME
+    default "ergo18"
+
+endif
