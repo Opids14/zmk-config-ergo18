@@ -14,6 +14,8 @@ Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it.
 
 ![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/Fork1.png)
 
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/action.png)
+
  Go to [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/). This will be the graphical user interface used to modify the base keymap. 
 
 
