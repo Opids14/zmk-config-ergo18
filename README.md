@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/face.png)
+
 Requirements:
   1. Github account : Create on here (https://github.com/login)
 
