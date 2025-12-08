@@ -1,13 +1,14 @@
 Requirements:
   1. Github account : Create on here (https://github.com/login)
+
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/github.png)
+  
   2. Ergo18 keyboard & USB type C
   3. Computer and internet access
 
 This is a quick little guide for those of you who wish to change or add things to your keymap.   This guide will work for all the keyboards running ZMK.  I have crap grammar so bear with me :D
 
-Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it 
-
-![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/github.png)
+Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it.
 
 ![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/Fork.png)
 
