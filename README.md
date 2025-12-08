@@ -7,18 +7,15 @@ This is a quick little guide for those of you who wish to change or add things t
 
 Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it 
 
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/github.png)
+
 ![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/Fork.png)
 
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/Fork1.png)
 
  Go to [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/). This will be the graphical user interface used to modify the base keymap. 
 
-    - Log in with your GitHub account and authorize if needed.
 
-    - Select the option "Only select repositories."
-
-    - Click the drop-down "Select repositories" and search for the repository you forked from my GitHub: `zmk-config-corne`.
-
-    - Click "Install."  
 
 
 This will reload and display a nice GUI where you can start editing your keymap as desired. There are many settings to explore here
