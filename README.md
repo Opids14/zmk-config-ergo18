@@ -63,6 +63,11 @@ The computer should recognize the keyboard as NiceNano, just paste the UF2 file 
 
 ![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/keymap12.png)
 
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/face.png)
+
+Happy holidays and enjoy tinkering.
+
+
 Credits to Scotto keebs for showing on how to handwired keybaord souce below
 LINK https://scottokeebs.com/
 Youtube: https://www.youtube.com/watch?v=O_urj-rF3bQ&t=228s
