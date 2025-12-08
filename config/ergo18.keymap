@@ -1,5 +1,4 @@
 #include <behaviors.dtsi>
-#include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
 
 / {
@@ -20,20 +19,18 @@
             label = "NEW_MACRO";
         };
 
-        alt_tab: alt_tab {
+        sci2: sci2 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&macro_tap>, <&kp LEFT_ALT &kp TAB>;
-
-            label = "ALT_TAB";
+            bindings = <&kp T &kp E &kp S &kp T &kp SPACE &kp M &kp E &kp S &kp S &kp A &kp G &kp E &kp SPACE &kp H &kp E &kp R &kp E &kp SPACE &kp O &kp R &kp SPACE &kp P &kp A &kp S &kp S &kp W &kp O &kp R &kp D>;
+            label = "SCI2";
         };
 
-        fe: fe {
+        sci3: sci3 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&macro_tap>, <&kp LEFT_GUI &kp E>;
-
-            label = "FE";
+            bindings = <&kp T &kp E &kp S &kp T &kp SPACE &kp T &kp E &kp M &kp P &kp L &kp A &kp T &kp E &kp SPACE &kp H &kp E &kp R &kp E>;
+            label = "SCI3";
         };
     };
 
@@ -43,18 +40,18 @@
         default_layer {
             display-name = "Default";
             bindings = <
-&kp K_COPY         &kp K_PASTE  &kp K_UNDO       &kp K_PREV          &kp K_PLAY_PAUSE     &kp K_NEXT
-&kp K_VOLUME_DOWN  &kp K_MUTE   &kp K_VOLUME_UP  &kp LA(LEFT_ARROW)  &kp LA(RIGHT_ARROW)  &kp LA(TAB)
-&sci               &kp N        &kp O            &kp LG(R)           &kp LG(E)            &mo 1
+&kp LC(C)     &kp LC(V)   &kp LC(Z)        &kp K_PREV          &kp K_PLAY_PAUSE     &kp K_NEXT
+&kp C_VOL_DN  &kp C_MUTE  &kp C_VOLUME_UP  &kp LA(LEFT_ARROW)  &kp LA(RIGHT_ARROW)  &kp LA(TAB)
+&sci          &sci2       &sci3            &kp LG(R)           &kp LG(E)            &mo 1
             >;
         };
 
         function_layer {
             display-name = "Function";
             bindings = <
-&bootloader  &bt BT_SEL 1    &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_SEL 5
-&bootloader  &studio_unlock  &none         &none         &none         &bootloader
-&tog 1       &none           &none         &none         &none         &none
+&bootloader  &trans  &trans  &trans  &trans  &studio_unlock
+&bootloader  &none   &none   &none   &none   &bootloader
+&none        &none   &none   &none   &none   &none
             >;
         };
 
