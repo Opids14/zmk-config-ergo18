@@ -43,9 +43,9 @@
         default_layer {
             display-name = "Default";
             bindings = <
-&kp K_COPY         &kp K_PASTE  &kp K_UNDO       &kp K_PREV  &kp K_PLAY_PAUSE  &kp K_NEXT
-&kp K_VOLUME_DOWN  &kp K_MUTE   &kp K_VOLUME_UP  &kp J       &kp K             &alt_tab
-&sci               &kp N        &kp O            &kp P       &kp Q             &mo 1
+&kp K_COPY         &kp K_PASTE  &kp K_UNDO       &kp K_PREV          &kp K_PLAY_PAUSE     &kp K_NEXT
+&kp K_VOLUME_DOWN  &kp K_MUTE   &kp K_VOLUME_UP  &kp LA(LEFT_ARROW)  &kp LA(RIGHT_ARROW)  &kp LA(TAB)
+&sci               &kp N        &kp O            &kp LG(R)           &kp LG(E)            &mo 1
             >;
         };
 
