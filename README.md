@@ -7,6 +7,7 @@ This is a quick little guide for those of you who wish to change or add things t
 
 Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it 
 
+![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/Fork.png)
 
 
  Go to [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/). This will be the graphical user interface used to modify the base keymap. 
