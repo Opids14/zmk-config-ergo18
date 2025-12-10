@@ -11,7 +11,7 @@ Requirements:
   2. Ergo18 keyboard & USB type C
   3. Computer and internet access
 
-This is a quick little guide for those of you who wish to change or add things to your keymap.   This guide will work for all the keyboards running ZMK.  I have crap grammar so bear with me :D
+This is a quick little guide for those of you who wish to change or add things to your keymap.   This guide will work for all the keyboards running ZMK.  My english is not working during paternity leave so bear with me :D
 
 Go to my GitHub repo https://github.com/Opids14/zmk-config-ergo18 and fork it.
 
