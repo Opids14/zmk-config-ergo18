@@ -1,3 +1,5 @@
+HAPPY HOLIDAYS
+- Ralph G
 
 ![alt text](https://github.com/Opids14/zmk-config-ergo18/blob/master/Files/face.png)
 
