@@ -50,7 +50,7 @@
             display-name = "Function";
             bindings = <
 &bootloader  &trans  &trans  &trans  &trans  &studio_unlock
-&bootloader  &none   &none   &none   &none   &bootloader
+&bootloader  &sci3   &none   &none   &none   &bootloader
 &none        &none   &none   &none   &none   &none
             >;
         };
